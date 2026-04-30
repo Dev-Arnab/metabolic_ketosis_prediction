@@ -1,0 +1,8 @@
+# Ignore dataset files
+Metbolic acidosis preliminary.xlsx
+
+# Ignore common spreadsheet/data files that should not be committed
+*.xlsx
+*.xls
+*.xlsm
+*.csv

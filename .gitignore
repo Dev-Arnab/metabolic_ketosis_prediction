@@ -16,39 +16,15 @@ venv/
 .env
 .ipynb_checkpoints/
 
-# Office / editor temp files
+# Office / editor temp + reports (keep unpublished docs private)
 ~$*
 *.wbk
-Thumbs.db
-Desktop.ini
-.DS_Store
-
-# Local full project materials (keep private; do not publish)
 *.docx
 *.rtf
 *.pdf
-Paper/
-Final Paper Analysis/
-CSE848_Evolutionary_Feature_Selection/
-Other Farm/
-EDA.ipynb
-ML Pipeline.ipynb
-Feature Selection.ipynb
-Model with selected features.ipynb
-Publication figure.ipynb
-*_bench*.py
-_*.py
-make_docx.py
-paper_figure_table.py
-Roadmap.md
-JDS_manuscript*
-DRIVE Lab draft Paper.docx
-ERF rough draft*
-Info metabolic project.docx
-Methods_and_Results.docx
-Figures/
-Feature Selection Figures/
-ML Pipeline Figures/
-Model with selected features/
-Publication Figures/
-paper_outputs/
+*.tex
+*.aux
+*.log
+Thumbs.db
+Desktop.ini
+.DS_Store
